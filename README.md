@@ -5,9 +5,9 @@ A list of different projects that I have worked on throughout my Undergrad at Ca
 * Purpose: Assist the Visually Impaired with the reading of physical and digital text.
 * Top-Level: The camera captures the Text of an image, can translate it into 10 different languages, then reads it aloud.
 * Contribution: Data-Transfer, Design and Printing of 3D Print Housing, Soldering, and Verification.
-* Languages: C, MATLAB
+* Languages: Python, C, MATLAB
 
-## (Directed Research) IoT Water Quality Monitoring System
+## (Directed Research) IoT Water Quality Monitoring System [8/26/2022 - 12/13/2022]
 * Purpose: Captures pH, Pressure, and Temperature of water within pipeline.
 * Top-Level: Industrial Sensors capture analog data, converted to digital signal and processed using a Raspberry Pi 3B. Ras-Pi then sends data to ThingSpeak, which maps the data to a corresponding chart.
 * Contribution: IoT implementation, Probe Accuracy Verification, 
